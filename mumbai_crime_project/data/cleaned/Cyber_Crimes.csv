@@ -1,0 +1,25 @@
+Crime Head,S. No.,Level,Parent,Registered,Detected,Detection Rate
+Tampering of Source Code,1,Main,,0,0,
+Phishing /MIM Attack/ Spoofing Mail,2,Main,,59,17,0.288135593220339
+Pornography,3,Main,,15,14,0.9333333333333333
+Obscene Email / SMS / MMS/Post,4,Main,,249,145,0.5823293172690763
+Fake Social Media Profile/ Morphing Email/ SMS,5,Main,,183,72,0.39344262295081966
+Credit Card / Online Fraud,6,Main,,1159,179,0.1544434857635893
+Hacking,7,Main,,23,2,0.08695652173913043
+Cheating,8,Main,,2212,404,0.18264014466546113
+Custom/Gift Fraud,8.1,Sub-category,Cheating,64,6,0.09375
+Purchase fraud,8.2,Sub-category,Cheating,134,19,0.1417910447761194
+Job Fraud,8.3,Sub-category,Cheating,428,85,0.1985981308411215
+Insurance/ Provident Fund Fraud,8.4,Sub-category,Cheating,21,4,0.19047619047619047
+Admission fraud,8.5,Sub-category,Cheating,4,1,0.25
+Fake Web site,8.6,Sub-category,Cheating,105,17,0.1619047619047619
+Investment Fraud,8.7,Sub-category,Cheating,80,14,0.175
+Matrimonial Fraud,8.8,Sub-category,Cheating,13,3,0.23076923076923078
+Crypto currency Fraud,8.9,Sub-category,Cheating,49,7,0.14285714285714285
+Loan Fraud,8.10,Sub-category,Cheating,63,16,0.25396825396825395
+Other Cheating,8.11,Sub-category,Cheating,1251,232,0.18545163868904876
+Data Theft,9,Main,,20,7,0.35
+Sextortion,10,Main,,52,16,0.3076923076923077
+Communal Post,11,Main,,5,5,1.0
+Other,12,Main,,192,77,0.4010416666666667
+Total,,Total,,4169,938,0.22499400335811945

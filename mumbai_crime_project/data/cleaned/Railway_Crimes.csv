@@ -1,0 +1,325 @@
+Station,Crime Head,Year,Reported Cases
+CST,Murder,2017,0
+CST,Murder,2018,0
+CST,Murder,2019,0
+CST,Murder,2020,0
+CST,Murder,2021,1
+CST,Murder,2022,0
+CST,Dacoity/Robbery,2017,7
+CST,Dacoity/Robbery,2018,36
+CST,Dacoity/Robbery,2019,57
+CST,Dacoity/Robbery,2020,48
+CST,Dacoity/Robbery,2021,31
+CST,Dacoity/Robbery,2022,32
+CST,All Thefts,2017,1616
+CST,All Thefts,2018,2495
+CST,All Thefts,2019,1991
+CST,All Thefts,2020,558
+CST,All Thefts,2021,437
+CST,All Thefts,2022,677
+CST,Rape,2017,0
+CST,Rape,2018,1
+CST,Rape,2019,0
+CST,Rape,2020,1
+CST,Rape,2021,1
+CST,Rape,2022,0
+CST,Molestation,2017,7
+CST,Molestation,2018,8
+CST,Molestation,2019,6
+CST,Molestation,2020,1
+CST,Molestation,2021,1
+CST,Molestation,2022,4
+CST,Other IPC,2017,28
+CST,Other IPC,2018,44
+CST,Other IPC,2019,78
+CST,Other IPC,2020,21
+CST,Other IPC,2021,17
+CST,Other IPC,2022,19
+Dadar,Murder,2017,0
+Dadar,Murder,2018,0
+Dadar,Murder,2019,0
+Dadar,Murder,2020,0
+Dadar,Murder,2021,0
+Dadar,Murder,2022,1
+Dadar,Dacoity/Robbery,2017,62
+Dadar,Dacoity/Robbery,2018,183
+Dadar,Dacoity/Robbery,2019,203
+Dadar,Dacoity/Robbery,2020,40
+Dadar,Dacoity/Robbery,2021,37
+Dadar,Dacoity/Robbery,2022,41
+Dadar,All Thefts,2017,2075
+Dadar,All Thefts,2018,2574
+Dadar,All Thefts,2019,2172
+Dadar,All Thefts,2020,579
+Dadar,All Thefts,2021,599
+Dadar,All Thefts,2022,989
+Dadar,Rape,2017,1
+Dadar,Rape,2018,0
+Dadar,Rape,2019,1
+Dadar,Rape,2020,0
+Dadar,Rape,2021,0
+Dadar,Rape,2022,0
+Dadar,Molestation,2017,7
+Dadar,Molestation,2018,11
+Dadar,Molestation,2019,14
+Dadar,Molestation,2020,1
+Dadar,Molestation,2021,3
+Dadar,Molestation,2022,8
+Dadar,Other IPC,2017,42
+Dadar,Other IPC,2018,31
+Dadar,Other IPC,2019,37
+Dadar,Other IPC,2020,12
+Dadar,Other IPC,2021,15
+Dadar,Other IPC,2022,12
+Kurla,Murder,2017,0
+Kurla,Murder,2018,1
+Kurla,Murder,2019,1
+Kurla,Murder,2020,0
+Kurla,Murder,2021,0
+Kurla,Murder,2022,1
+Kurla,Dacoity/Robbery,2017,84
+Kurla,Dacoity/Robbery,2018,201
+Kurla,Dacoity/Robbery,2019,266
+Kurla,Dacoity/Robbery,2020,48
+Kurla,Dacoity/Robbery,2021,50
+Kurla,Dacoity/Robbery,2022,48
+Kurla,All Thefts,2017,3134
+Kurla,All Thefts,2018,5043
+Kurla,All Thefts,2019,4112
+Kurla,All Thefts,2020,887
+Kurla,All Thefts,2021,424
+Kurla,All Thefts,2022,1295
+Kurla,Rape,2017,1
+Kurla,Rape,2018,1
+Kurla,Rape,2019,3
+Kurla,Rape,2020,0
+Kurla,Rape,2021,1
+Kurla,Rape,2022,1
+Kurla,Molestation,2017,7
+Kurla,Molestation,2018,11
+Kurla,Molestation,2019,14
+Kurla,Molestation,2020,5
+Kurla,Molestation,2021,1
+Kurla,Molestation,2022,9
+Kurla,Other IPC,2017,53
+Kurla,Other IPC,2018,69
+Kurla,Other IPC,2019,91
+Kurla,Other IPC,2020,22
+Kurla,Other IPC,2021,14
+Kurla,Other IPC,2022,24
+Wadala,Murder,2017,1
+Wadala,Murder,2018,2
+Wadala,Murder,2019,1
+Wadala,Murder,2020,1
+Wadala,Murder,2021,2
+Wadala,Murder,2022,0
+Wadala,Dacoity/Robbery,2017,65
+Wadala,Dacoity/Robbery,2018,107
+Wadala,Dacoity/Robbery,2019,196
+Wadala,Dacoity/Robbery,2020,127
+Wadala,Dacoity/Robbery,2021,83
+Wadala,Dacoity/Robbery,2022,78
+Wadala,All Thefts,2017,1803
+Wadala,All Thefts,2018,3177
+Wadala,All Thefts,2019,2341
+Wadala,All Thefts,2020,558
+Wadala,All Thefts,2021,315
+Wadala,All Thefts,2022,785
+Wadala,Rape,2017,1
+Wadala,Rape,2018,0
+Wadala,Rape,2019,0
+Wadala,Rape,2020,0
+Wadala,Rape,2021,0
+Wadala,Rape,2022,0
+Wadala,Molestation,2017,4
+Wadala,Molestation,2018,7
+Wadala,Molestation,2019,13
+Wadala,Molestation,2020,4
+Wadala,Molestation,2021,0
+Wadala,Molestation,2022,4
+Wadala,Other IPC,2017,10
+Wadala,Other IPC,2018,17
+Wadala,Other IPC,2019,38
+Wadala,Other IPC,2020,11
+Wadala,Other IPC,2021,9
+Wadala,Other IPC,2022,14
+Churchgate,Murder,2017,0
+Churchgate,Murder,2018,0
+Churchgate,Murder,2019,0
+Churchgate,Murder,2020,0
+Churchgate,Murder,2021,0
+Churchgate,Murder,2022,0
+Churchgate,Dacoity/Robbery,2017,17
+Churchgate,Dacoity/Robbery,2018,8
+Churchgate,Dacoity/Robbery,2019,16
+Churchgate,Dacoity/Robbery,2020,4
+Churchgate,Dacoity/Robbery,2021,8
+Churchgate,Dacoity/Robbery,2022,7
+Churchgate,All Thefts,2017,413
+Churchgate,All Thefts,2018,475
+Churchgate,All Thefts,2019,450
+Churchgate,All Thefts,2020,122
+Churchgate,All Thefts,2021,141
+Churchgate,All Thefts,2022,333
+Churchgate,Rape,2017,0
+Churchgate,Rape,2018,0
+Churchgate,Rape,2019,1
+Churchgate,Rape,2020,0
+Churchgate,Rape,2021,1
+Churchgate,Rape,2022,0
+Churchgate,Molestation,2017,8
+Churchgate,Molestation,2018,8
+Churchgate,Molestation,2019,5
+Churchgate,Molestation,2020,3
+Churchgate,Molestation,2021,0
+Churchgate,Molestation,2022,6
+Churchgate,Other IPC,2017,2
+Churchgate,Other IPC,2018,5
+Churchgate,Other IPC,2019,6
+Churchgate,Other IPC,2020,1
+Churchgate,Other IPC,2021,3
+Churchgate,Other IPC,2022,3
+Mumbai Central (MCT),Murder,2017,0
+Mumbai Central (MCT),Murder,2018,1
+Mumbai Central (MCT),Murder,2019,1
+Mumbai Central (MCT),Murder,2020,0
+Mumbai Central (MCT),Murder,2021,0
+Mumbai Central (MCT),Murder,2022,0
+Mumbai Central (MCT),Dacoity/Robbery,2017,27
+Mumbai Central (MCT),Dacoity/Robbery,2018,60
+Mumbai Central (MCT),Dacoity/Robbery,2019,55
+Mumbai Central (MCT),Dacoity/Robbery,2020,16
+Mumbai Central (MCT),Dacoity/Robbery,2021,26
+Mumbai Central (MCT),Dacoity/Robbery,2022,22
+Mumbai Central (MCT),All Thefts,2017,1616
+Mumbai Central (MCT),All Thefts,2018,2244
+Mumbai Central (MCT),All Thefts,2019,1645
+Mumbai Central (MCT),All Thefts,2020,418
+Mumbai Central (MCT),All Thefts,2021,297
+Mumbai Central (MCT),All Thefts,2022,688
+Mumbai Central (MCT),Rape,2017,1
+Mumbai Central (MCT),Rape,2018,0
+Mumbai Central (MCT),Rape,2019,0
+Mumbai Central (MCT),Rape,2020,0
+Mumbai Central (MCT),Rape,2021,0
+Mumbai Central (MCT),Rape,2022,2
+Mumbai Central (MCT),Molestation,2017,9
+Mumbai Central (MCT),Molestation,2018,11
+Mumbai Central (MCT),Molestation,2019,10
+Mumbai Central (MCT),Molestation,2020,7
+Mumbai Central (MCT),Molestation,2021,2
+Mumbai Central (MCT),Molestation,2022,11
+Mumbai Central (MCT),Other IPC,2017,13
+Mumbai Central (MCT),Other IPC,2018,12
+Mumbai Central (MCT),Other IPC,2019,21
+Mumbai Central (MCT),Other IPC,2020,13
+Mumbai Central (MCT),Other IPC,2021,16
+Mumbai Central (MCT),Other IPC,2022,33
+Bandra,Murder,2017,0
+Bandra,Murder,2018,0
+Bandra,Murder,2019,1
+Bandra,Murder,2020,0
+Bandra,Murder,2021,0
+Bandra,Murder,2022,0
+Bandra,Dacoity/Robbery,2017,15
+Bandra,Dacoity/Robbery,2018,84
+Bandra,Dacoity/Robbery,2019,91
+Bandra,Dacoity/Robbery,2020,32
+Bandra,Dacoity/Robbery,2021,30
+Bandra,Dacoity/Robbery,2022,27
+Bandra,All Thefts,2017,1587
+Bandra,All Thefts,2018,2735
+Bandra,All Thefts,2019,1759
+Bandra,All Thefts,2020,440
+Bandra,All Thefts,2021,285
+Bandra,All Thefts,2022,691
+Bandra,Rape,2017,1
+Bandra,Rape,2018,1
+Bandra,Rape,2019,0
+Bandra,Rape,2020,0
+Bandra,Rape,2021,0
+Bandra,Rape,2022,0
+Bandra,Molestation,2017,4
+Bandra,Molestation,2018,9
+Bandra,Molestation,2019,6
+Bandra,Molestation,2020,5
+Bandra,Molestation,2021,4
+Bandra,Molestation,2022,1
+Bandra,Other IPC,2017,14
+Bandra,Other IPC,2018,13
+Bandra,Other IPC,2019,22
+Bandra,Other IPC,2020,12
+Bandra,Other IPC,2021,11
+Bandra,Other IPC,2022,17
+Andheri,Murder,2017,0
+Andheri,Murder,2018,0
+Andheri,Murder,2019,0
+Andheri,Murder,2020,0
+Andheri,Murder,2021,0
+Andheri,Murder,2022,0
+Andheri,Dacoity/Robbery,2017,100
+Andheri,Dacoity/Robbery,2018,83
+Andheri,Dacoity/Robbery,2019,119
+Andheri,Dacoity/Robbery,2020,33
+Andheri,Dacoity/Robbery,2021,33
+Andheri,Dacoity/Robbery,2022,30
+Andheri,All Thefts,2017,1625
+Andheri,All Thefts,2018,2162
+Andheri,All Thefts,2019,1929
+Andheri,All Thefts,2020,406
+Andheri,All Thefts,2021,301
+Andheri,All Thefts,2022,708
+Andheri,Rape,2017,0
+Andheri,Rape,2018,0
+Andheri,Rape,2019,0
+Andheri,Rape,2020,0
+Andheri,Rape,2021,0
+Andheri,Rape,2022,0
+Andheri,Molestation,2017,10
+Andheri,Molestation,2018,16
+Andheri,Molestation,2019,13
+Andheri,Molestation,2020,1
+Andheri,Molestation,2021,2
+Andheri,Molestation,2022,10
+Andheri,Other IPC,2017,13
+Andheri,Other IPC,2018,22
+Andheri,Other IPC,2019,14
+Andheri,Other IPC,2020,8
+Andheri,Other IPC,2021,15
+Andheri,Other IPC,2022,25
+Borivali,Murder,2017,1
+Borivali,Murder,2018,2
+Borivali,Murder,2019,0
+Borivali,Murder,2020,0
+Borivali,Murder,2021,0
+Borivali,Murder,2022,1
+Borivali,Dacoity/Robbery,2017,51
+Borivali,Dacoity/Robbery,2018,106
+Borivali,Dacoity/Robbery,2019,188
+Borivali,Dacoity/Robbery,2020,68
+Borivali,Dacoity/Robbery,2021,56
+Borivali,Dacoity/Robbery,2022,39
+Borivali,All Thefts,2017,3171
+Borivali,All Thefts,2018,4573
+Borivali,All Thefts,2019,2886
+Borivali,All Thefts,2020,755
+Borivali,All Thefts,2021,492
+Borivali,All Thefts,2022,1098
+Borivali,Rape,2017,1
+Borivali,Rape,2018,0
+Borivali,Rape,2019,0
+Borivali,Rape,2020,0
+Borivali,Rape,2021,2
+Borivali,Rape,2022,1
+Borivali,Molestation,2017,4
+Borivali,Molestation,2018,4
+Borivali,Molestation,2019,12
+Borivali,Molestation,2020,5
+Borivali,Molestation,2021,7
+Borivali,Molestation,2022,7
+Borivali,Other IPC,2017,8
+Borivali,Other IPC,2018,17
+Borivali,Other IPC,2019,31
+Borivali,Other IPC,2020,5
+Borivali,Other IPC,2021,16
+Borivali,Other IPC,2022,48

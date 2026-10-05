@@ -1,0 +1,25 @@
+﻿_id,S No.,Crime Heads,Reg,Det,PA
+1,1,Tampering of Source Code,0,0,0
+2,2,Phishing /MIM Attack/ Spoofing Mail,59,17,23
+3,3,Pornography,15,14,15
+4,4,Obscene Email / SMS / MMS/Post,249,145,152
+5,5,Fake Social Media Profile/ Morphing Email/ SMS,183,72,67
+6,6,Credit Card / Online Fraud,1159,179,223
+7,7,Hacking,23,2,8
+8,8,Cheating,2212,404,488
+9,8.1,1 Custom/Gift Fraud,64,6,5
+10,8.2,2 Purchase fraud,134,19,13
+11,8.3,3 Job Fraud,428,85,136
+12,8.4,4 Insurance/ Provident Fund Fraud,21,4,3
+13,8.5,5 Admission fraud,4,1,2
+14,8.6,6 Fake Web site,105,17,14
+15,8.7,7 Investment Fraud,80,14,28
+16,8.8,8 Matrimonial Fraud,13,3,4
+17,8.9,9 Crypto currency Fraud,49,7,6
+18,8.10,10 Loan Fraud,63,16,14
+19,8.11,11 Other Cheating,1251,232,263
+20,9,Data Theft,20,7,11
+21,10,Sextortion,52,16,26
+22,11,Communal Post,5,5,4
+23,12,Other,192,77,73
+24,,Total,4169,938,1090

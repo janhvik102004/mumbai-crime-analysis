@@ -1,0 +1,501 @@
+Region,Crime Head,Year,Reported Cases
+Central,Murder,2013,32
+Central,Murder,2014,37
+Central,Murder,2015,30
+Central,Murder,2016,21
+Central,Murder,2017,24
+Central,Murder,2018,32
+Central,Murder,2019,34
+Central,Murder,2020,19
+Central,Murder,2021,34
+Central,Murder,2022,23
+Central,Rape,2013,70
+Central,Rape,2014,123
+Central,Rape,2015,161
+Central,Rape,2016,113
+Central,Rape,2017,188
+Central,Rape,2018,115
+Central,Rape,2019,147
+Central,Rape,2020,114
+Central,Rape,2021,115
+Central,Rape,2022,161
+Central,Hurt,2013,798
+Central,Hurt,2014,831
+Central,Hurt,2015,922
+Central,Hurt,2016,878
+Central,Hurt,2017,904
+Central,Hurt,2018,965
+Central,Hurt,2019,779
+Central,Hurt,2020,670
+Central,Hurt,2021,733
+Central,Hurt,2022,807
+Central,Molestation,2013,243
+Central,Molestation,2014,320
+Central,Molestation,2015,411
+Central,Molestation,2016,400
+Central,Molestation,2017,436
+Central,Molestation,2018,423
+Central,Molestation,2019,474
+Central,Molestation,2020,301
+Central,Molestation,2021,349
+Central,Molestation,2022,382
+Central,Riots,2013,78
+Central,Riots,2014,78
+Central,Riots,2015,97
+Central,Riots,2016,89
+Central,Riots,2017,79
+Central,Riots,2018,87
+Central,Riots,2019,92
+Central,Riots,2020,65
+Central,Riots,2021,65
+Central,Riots,2022,49
+Central,Chain Snatching,2013,590
+Central,Chain Snatching,2014,288
+Central,Chain Snatching,2015,182
+Central,Chain Snatching,2016,69
+Central,Chain Snatching,2017,16
+Central,Chain Snatching,2018,38
+Central,Chain Snatching,2019,33
+Central,Chain Snatching,2020,18
+Central,Chain Snatching,2021,41
+Central,Chain Snatching,2022,34
+Central,House Breaking (Day & Night),2013,632
+Central,House Breaking (Day & Night),2014,660
+Central,House Breaking (Day & Night),2015,536
+Central,House Breaking (Day & Night),2016,497
+Central,House Breaking (Day & Night),2017,408
+Central,House Breaking (Day & Night),2018,365
+Central,House Breaking (Day & Night),2019,352
+Central,House Breaking (Day & Night),2020,314
+Central,House Breaking (Day & Night),2021,339
+Central,House Breaking (Day & Night),2022,303
+Central,Robbery/Dacoity,2013,123
+Central,Robbery/Dacoity,2014,141
+Central,Robbery/Dacoity,2015,148
+Central,Robbery/Dacoity,2016,122
+Central,Robbery/Dacoity,2017,149
+Central,Robbery/Dacoity,2018,155
+Central,Robbery/Dacoity,2019,148
+Central,Robbery/Dacoity,2020,97
+Central,Robbery/Dacoity,2021,101
+Central,Robbery/Dacoity,2022,164
+Central,Thefts,2013,1458
+Central,Thefts,2014,1324
+Central,Thefts,2015,1372
+Central,Thefts,2016,1336
+Central,Thefts,2017,1346
+Central,Thefts,2018,1250
+Central,Thefts,2019,1132
+Central,Thefts,2020,643
+Central,Thefts,2021,932
+Central,Thefts,2022,2824
+Central,Vehicle Stolen,2013,779
+Central,Vehicle Stolen,2014,856
+Central,Vehicle Stolen,2015,783
+Central,Vehicle Stolen,2016,668
+Central,Vehicle Stolen,2017,674
+Central,Vehicle Stolen,2018,723
+Central,Vehicle Stolen,2019,538
+Central,Vehicle Stolen,2020,518
+Central,Vehicle Stolen,2021,624
+Central,Vehicle Stolen,2022,544
+East,Murder,2013,49
+East,Murder,2014,40
+East,Murder,2015,49
+East,Murder,2016,34
+East,Murder,2017,24
+East,Murder,2018,48
+East,Murder,2019,45
+East,Murder,2020,53
+East,Murder,2021,43
+East,Murder,2022,34
+East,Rape,2013,98
+East,Rape,2014,128
+East,Rape,2015,139
+East,Rape,2016,155
+East,Rape,2017,155
+East,Rape,2018,182
+East,Rape,2019,225
+East,Rape,2020,164
+East,Rape,2021,170
+East,Rape,2022,184
+East,Hurt,2013,998
+East,Hurt,2014,1006
+East,Hurt,2015,1101
+East,Hurt,2016,1098
+East,Hurt,2017,1151
+East,Hurt,2018,1263
+East,Hurt,2019,1110
+East,Hurt,2020,1008
+East,Hurt,2021,1075
+East,Hurt,2022,1097
+East,Molestation,2013,249
+East,Molestation,2014,315
+East,Molestation,2015,331
+East,Molestation,2016,383
+East,Molestation,2017,406
+East,Molestation,2018,506
+East,Molestation,2019,493
+East,Molestation,2020,424
+East,Molestation,2021,395
+East,Molestation,2022,411
+East,Riots,2013,77
+East,Riots,2014,93
+East,Riots,2015,89
+East,Riots,2016,84
+East,Riots,2017,102
+East,Riots,2018,90
+East,Riots,2019,69
+East,Riots,2020,48
+East,Riots,2021,40
+East,Riots,2022,42
+East,Chain Snatching,2013,331
+East,Chain Snatching,2014,262
+East,Chain Snatching,2015,217
+East,Chain Snatching,2016,103
+East,Chain Snatching,2017,41
+East,Chain Snatching,2018,38
+East,Chain Snatching,2019,42
+East,Chain Snatching,2020,41
+East,Chain Snatching,2021,35
+East,Chain Snatching,2022,59
+East,House Breaking (Day & Night),2013,530
+East,House Breaking (Day & Night),2014,603
+East,House Breaking (Day & Night),2015,702
+East,House Breaking (Day & Night),2016,526
+East,House Breaking (Day & Night),2017,535
+East,House Breaking (Day & Night),2018,487
+East,House Breaking (Day & Night),2019,422
+East,House Breaking (Day & Night),2020,399
+East,House Breaking (Day & Night),2021,400
+East,House Breaking (Day & Night),2022,406
+East,Robbery/Dacoity,2013,163
+East,Robbery/Dacoity,2014,190
+East,Robbery/Dacoity,2015,184
+East,Robbery/Dacoity,2016,185
+East,Robbery/Dacoity,2017,169
+East,Robbery/Dacoity,2018,199
+East,Robbery/Dacoity,2019,239
+East,Robbery/Dacoity,2020,160
+East,Robbery/Dacoity,2021,175
+East,Robbery/Dacoity,2022,159
+East,Thefts,2013,993
+East,Thefts,2014,1027
+East,Thefts,2015,1146
+East,Thefts,2016,1040
+East,Thefts,2017,1069
+East,Thefts,2018,1005
+East,Thefts,2019,911
+East,Thefts,2020,520
+East,Thefts,2021,723
+East,Thefts,2022,2221
+East,Vehicle Stolen,2013,770
+East,Vehicle Stolen,2014,577
+East,Vehicle Stolen,2015,615
+East,Vehicle Stolen,2016,594
+East,Vehicle Stolen,2017,561
+East,Vehicle Stolen,2018,560
+East,Vehicle Stolen,2019,522
+East,Vehicle Stolen,2020,571
+East,Vehicle Stolen,2021,692
+East,Vehicle Stolen,2022,626
+North,Murder,2013,43
+North,Murder,2014,44
+North,Murder,2015,37
+North,Murder,2016,38
+North,Murder,2017,26
+North,Murder,2018,35
+North,Murder,2019,23
+North,Murder,2020,29
+North,Murder,2021,32
+North,Murder,2022,24
+North,Rape,2013,85
+North,Rape,2014,147
+North,Rape,2015,180
+North,Rape,2016,167
+North,Rape,2017,182
+North,Rape,2018,225
+North,Rape,2019,224
+North,Rape,2020,163
+North,Rape,2021,230
+North,Rape,2022,246
+North,Hurt,2013,792
+North,Hurt,2014,937
+North,Hurt,2015,1097
+North,Hurt,2016,1041
+North,Hurt,2017,1217
+North,Hurt,2018,1395
+North,Hurt,2019,1088
+North,Hurt,2020,923
+North,Hurt,2021,1054
+North,Hurt,2022,1137
+North,Molestation,2013,202
+North,Molestation,2014,336
+North,Molestation,2015,562
+North,Molestation,2016,519
+North,Molestation,2017,606
+North,Molestation,2018,699
+North,Molestation,2019,641
+North,Molestation,2020,352
+North,Molestation,2021,525
+North,Molestation,2022,635
+North,Riots,2013,64
+North,Riots,2014,98
+North,Riots,2015,90
+North,Riots,2016,118
+North,Riots,2017,89
+North,Riots,2018,150
+North,Riots,2019,76
+North,Riots,2020,77
+North,Riots,2021,76
+North,Riots,2022,73
+North,Chain Snatching,2013,571
+North,Chain Snatching,2014,447
+North,Chain Snatching,2015,230
+North,Chain Snatching,2016,143
+North,Chain Snatching,2017,44
+North,Chain Snatching,2018,44
+North,Chain Snatching,2019,30
+North,Chain Snatching,2020,27
+North,Chain Snatching,2021,21
+North,Chain Snatching,2022,47
+North,House Breaking (Day & Night),2013,590
+North,House Breaking (Day & Night),2014,554
+North,House Breaking (Day & Night),2015,621
+North,House Breaking (Day & Night),2016,616
+North,House Breaking (Day & Night),2017,619
+North,House Breaking (Day & Night),2018,635
+North,House Breaking (Day & Night),2019,597
+North,House Breaking (Day & Night),2020,388
+North,House Breaking (Day & Night),2021,357
+North,House Breaking (Day & Night),2022,328
+North,Robbery/Dacoity,2013,100
+North,Robbery/Dacoity,2014,105
+North,Robbery/Dacoity,2015,145
+North,Robbery/Dacoity,2016,118
+North,Robbery/Dacoity,2017,182
+North,Robbery/Dacoity,2018,229
+North,Robbery/Dacoity,2019,233
+North,Robbery/Dacoity,2020,143
+North,Robbery/Dacoity,2021,147
+North,Robbery/Dacoity,2022,157
+North,Thefts,2013,1107
+North,Thefts,2014,1067
+North,Thefts,2015,1209
+North,Thefts,2016,1206
+North,Thefts,2017,1426
+North,Thefts,2018,1396
+North,Thefts,2019,1269
+North,Thefts,2020,707
+North,Thefts,2021,928
+North,Thefts,2022,3466
+North,Vehicle Stolen,2013,792
+North,Vehicle Stolen,2014,723
+North,Vehicle Stolen,2015,695
+North,Vehicle Stolen,2016,721
+North,Vehicle Stolen,2017,742
+North,Vehicle Stolen,2018,734
+North,Vehicle Stolen,2019,637
+North,Vehicle Stolen,2020,610
+North,Vehicle Stolen,2021,724
+North,Vehicle Stolen,2022,722
+South,Murder,2013,16
+South,Murder,2014,18
+South,Murder,2015,8
+South,Murder,2016,16
+South,Murder,2017,11
+South,Murder,2018,10
+South,Murder,2019,21
+South,Murder,2020,14
+South,Murder,2021,18
+South,Murder,2022,17
+South,Rape,2013,33
+South,Rape,2014,50
+South,Rape,2015,46
+South,Rape,2016,45
+South,Rape,2017,44
+South,Rape,2018,51
+South,Rape,2019,57
+South,Rape,2020,55
+South,Rape,2021,44
+South,Rape,2022,54
+South,Hurt,2013,310
+South,Hurt,2014,309
+South,Hurt,2015,309
+South,Hurt,2016,290
+South,Hurt,2017,279
+South,Hurt,2018,308
+South,Hurt,2019,245
+South,Hurt,2020,223
+South,Hurt,2021,259
+South,Hurt,2022,288
+South,Molestation,2013,125
+South,Molestation,2014,150
+South,Molestation,2015,143
+South,Molestation,2016,162
+South,Molestation,2017,145
+South,Molestation,2018,198
+South,Molestation,2019,201
+South,Molestation,2020,176
+South,Molestation,2021,148
+South,Molestation,2022,160
+South,Riots,2013,43
+South,Riots,2014,41
+South,Riots,2015,29
+South,Riots,2016,53
+South,Riots,2017,40
+South,Riots,2018,57
+South,Riots,2019,23
+South,Riots,2020,36
+South,Riots,2021,42
+South,Riots,2022,37
+South,Chain Snatching,2013,100
+South,Chain Snatching,2014,41
+South,Chain Snatching,2015,31
+South,Chain Snatching,2016,14
+South,Chain Snatching,2017,5
+South,Chain Snatching,2018,5
+South,Chain Snatching,2019,7
+South,Chain Snatching,2020,8
+South,Chain Snatching,2021,7
+South,Chain Snatching,2022,6
+South,House Breaking (Day & Night),2013,274
+South,House Breaking (Day & Night),2014,285
+South,House Breaking (Day & Night),2015,322
+South,House Breaking (Day & Night),2016,247
+South,House Breaking (Day & Night),2017,204
+South,House Breaking (Day & Night),2018,176
+South,House Breaking (Day & Night),2019,151
+South,House Breaking (Day & Night),2020,124
+South,House Breaking (Day & Night),2021,140
+South,House Breaking (Day & Night),2022,116
+South,Robbery/Dacoity,2013,67
+South,Robbery/Dacoity,2014,81
+South,Robbery/Dacoity,2015,78
+South,Robbery/Dacoity,2016,76
+South,Robbery/Dacoity,2017,74
+South,Robbery/Dacoity,2018,102
+South,Robbery/Dacoity,2019,115
+South,Robbery/Dacoity,2020,42
+South,Robbery/Dacoity,2021,67
+South,Robbery/Dacoity,2022,92
+South,Thefts,2013,914
+South,Thefts,2014,876
+South,Thefts,2015,1042
+South,Thefts,2016,839
+South,Thefts,2017,760
+South,Thefts,2018,672
+South,Thefts,2019,639
+South,Thefts,2020,424
+South,Thefts,2021,479
+South,Thefts,2022,1582
+South,Vehicle Stolen,2013,338
+South,Vehicle Stolen,2014,325
+South,Vehicle Stolen,2015,330
+South,Vehicle Stolen,2016,255
+South,Vehicle Stolen,2017,214
+South,Vehicle Stolen,2018,279
+South,Vehicle Stolen,2019,192
+South,Vehicle Stolen,2020,229
+South,Vehicle Stolen,2021,214
+South,Vehicle Stolen,2022,223
+West,Murder,2013,32
+West,Murder,2014,45
+West,Murder,2015,44
+West,Murder,2016,37
+West,Murder,2017,35
+West,Murder,2018,35
+West,Murder,2019,33
+West,Murder,2020,28
+West,Murder,2021,30
+West,Murder,2022,30
+West,Rape,2013,105
+West,Rape,2014,161
+West,Rape,2015,184
+West,Rape,2016,148
+West,Rape,2017,171
+West,Rape,2018,200
+West,Rape,2019,252
+West,Rape,2020,199
+West,Rape,2021,218
+West,Rape,2022,256
+West,Hurt,2013,1017
+West,Hurt,2014,1089
+West,Hurt,2015,1182
+West,Hurt,2016,1158
+West,Hurt,2017,1164
+West,Hurt,2018,1307
+West,Hurt,2019,1192
+West,Hurt,2020,1001
+West,Hurt,2021,1141
+West,Hurt,2022,1321
+West,Molestation,2013,318
+West,Molestation,2014,484
+West,Molestation,2015,575
+West,Molestation,2016,658
+West,Molestation,2017,642
+West,Molestation,2018,703
+West,Molestation,2019,803
+West,Molestation,2020,522
+West,Molestation,2021,641
+West,Molestation,2022,741
+West,Riots,2013,100
+West,Riots,2014,105
+West,Riots,2015,96
+West,Riots,2016,123
+West,Riots,2017,127
+West,Riots,2018,154
+West,Riots,2019,117
+West,Riots,2020,90
+West,Riots,2021,100
+West,Riots,2022,81
+West,Chain Snatching,2013,500
+West,Chain Snatching,2014,373
+West,Chain Snatching,2015,249
+West,Chain Snatching,2016,131
+West,Chain Snatching,2017,70
+West,Chain Snatching,2018,47
+West,Chain Snatching,2019,42
+West,Chain Snatching,2020,44
+West,Chain Snatching,2021,46
+West,Chain Snatching,2022,44
+West,House Breaking (Day & Night),2013,900
+West,House Breaking (Day & Night),2014,954
+West,House Breaking (Day & Night),2015,829
+West,House Breaking (Day & Night),2016,699
+West,House Breaking (Day & Night),2017,666
+West,House Breaking (Day & Night),2018,637
+West,House Breaking (Day & Night),2019,561
+West,House Breaking (Day & Night),2020,415
+West,House Breaking (Day & Night),2021,454
+West,House Breaking (Day & Night),2022,466
+West,Robbery/Dacoity,2013,281
+West,Robbery/Dacoity,2014,217
+West,Robbery/Dacoity,2015,285
+West,Robbery/Dacoity,2016,241
+West,Robbery/Dacoity,2017,275
+West,Robbery/Dacoity,2018,244
+West,Robbery/Dacoity,2019,239
+West,Robbery/Dacoity,2020,153
+West,Robbery/Dacoity,2021,237
+West,Robbery/Dacoity,2022,291
+West,Thefts,2013,2082
+West,Thefts,2014,2142
+West,Thefts,2015,2189
+West,Thefts,2016,2152
+West,Thefts,2017,1970
+West,Thefts,2018,1796
+West,Thefts,2019,1925
+West,Thefts,2020,1114
+West,Thefts,2021,1440
+West,Thefts,2022,4702
+West,Vehicle Stolen,2013,1110
+West,Vehicle Stolen,2014,999
+West,Vehicle Stolen,2015,888
+West,Vehicle Stolen,2016,851
+West,Vehicle Stolen,2017,827
+West,Vehicle Stolen,2018,856
+West,Vehicle Stolen,2019,805
+West,Vehicle Stolen,2020,867
+West,Vehicle Stolen,2021,1015
+West,Vehicle Stolen,2022,943
